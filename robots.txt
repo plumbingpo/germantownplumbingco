@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://germantownplumbingco.com/sitemap.xml
